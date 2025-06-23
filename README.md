@@ -1,4 +1,4 @@
-#🚦 Routes - Sistema de Rotas para Orgs#
+#🚦 Routes - Sistema de Rotas para Orgs
 Sistema completo de rotas customizáveis para servidores de roleplay.
 
 💰 Preço Original: R$350,00
